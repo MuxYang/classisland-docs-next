@@ -15,7 +15,8 @@ export const zhSidebar = sidebar({
       children: [
         "README.md",
         "setup.md",
-        "basic.md"
+        "basic.md",
+        "components.md"
       ],
     },
   ],
